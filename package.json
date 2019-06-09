@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-curso",
+  "version": "1.0.0",
+  "description": "Prueba curso de nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "express": "^4.17.1",
+    "opn": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "español"
+  ],
+  "author": "diego",
+  "license": "ISC"
+}
